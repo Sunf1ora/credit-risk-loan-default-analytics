@@ -1,0 +1,2 @@
+﻿model_name,target,rows_used,train_rows,test_rows,default_rate,accuracy,precision,recall,f1_score,roc_auc,true_negative,false_positive,false_negative,true_positive
+Logistic Regression,default_flag,32411,24308,8103,0.21872203881398292,0.8151301986918426,0.5559640522875817,0.768058690744921,0.6450236966824645,0.8725091660834056,5244,1087,411,1361

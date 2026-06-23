@@ -1,0 +1,6 @@
+﻿model_name,metric,value
+Logistic Regression,accuracy,0.8151301986918426
+Logistic Regression,precision,0.5559640522875817
+Logistic Regression,recall,0.768058690744921
+Logistic Regression,f1_score,0.6450236966824645
+Logistic Regression,roc_auc,0.8725091660834056
